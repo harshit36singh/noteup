@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # noteup
 
 A new Flutter project.
@@ -157,4 +157,4 @@ We welcome contributions! Please follow these steps:
 - Material Design team for the design guidelines
 - All contributors and users of NoteUp
 ---
->>>>>>> 92cc04a1600c1632afe6004d3931524760920b4f
+
