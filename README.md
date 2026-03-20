@@ -2,6 +2,9 @@
 
 A beautiful and intuitive Flutter-based productivity app that helps you organize your life with todos, routines, events, and notes - all in one place.
 
+## 📸 App Overview 
+![NoteUp App Screenshot](lib/screenshot/noteup.png)
+
 ## ✨ Features
 
 - **📋 Todo Management**: Create, organize, and track your daily tasks with date-specific organization
