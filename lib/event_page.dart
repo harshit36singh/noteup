@@ -131,11 +131,11 @@ class _EventPageState extends State<EventPage> {
                   ),
                   selectedDecoration: BoxDecoration(
                     color: const Color.fromARGB(255, 166, 135, 218),
-                    shape: BoxShape.rectangle,
+                    shape: BoxShape.circle,
                   ),
                   markerDecoration: BoxDecoration(
                     color: const Color.fromARGB(255, 162, 143, 213),
-                    shape: BoxShape.rectangle,
+                    shape: BoxShape.circle,
                   ),
                 ),
               ),
